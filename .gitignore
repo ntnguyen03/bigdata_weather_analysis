@@ -1,0 +1,5 @@
+weatherHistory.csv
+output/
+weather_gbt_model/
+*.crc
+_SUCCESS
