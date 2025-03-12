@@ -12,5 +12,5 @@ Model used in project
 - RandomForestRegressor
   - Result: Random Forest RMSE: 4.589382240299312
 -  GBTRegressor (best result)
-  - Result: GBT RMSE: 3.3165151342090855
-            GBT R2: 0.8794912268299956
+    - Result: GBT RMSE: 3.3165151342090855
+              GBT R2: 0.8794912268299956
