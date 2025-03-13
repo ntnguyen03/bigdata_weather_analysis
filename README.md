@@ -1,4 +1,6 @@
 ## Weather Analysis with Apache Spark 📊
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 Some pictures of the project 💣
 ![image](https://github.com/user-attachments/assets/3ec05ba4-d050-40ce-872d-9e48850e4cbf)
